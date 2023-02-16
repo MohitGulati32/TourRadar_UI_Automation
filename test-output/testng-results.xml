@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-16T21:34:00 CET" name="Default suite" finished-at="2023-02-16T21:34:29 CET" duration-ms="29010">
+    <groups>
+    </groups>
+    <test started-at="2023-02-16T21:34:00 CET" name="Default test" finished-at="2023-02-16T21:34:29 CET" duration-ms="29010">
+      <class name="regressionTestcases.UI_TC3_CTA_Download">
+        <test-method is-config="true" signature="initiateCriverInstance()[pri:0, instance:regressionTestcases.UI_TC3_CTA_Download@4efac082]" started-at="2023-02-16T21:34:00 CET" name="initiateCriverInstance" finished-at="2023-02-16T21:34:18 CET" duration-ms="17697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateCriverInstance -->
+        <test-method signature="TC3()[pri:0, instance:regressionTestcases.UI_TC3_CTA_Download@4efac082]" started-at="2023-02-16T21:34:18 CET" name="TC3" finished-at="2023-02-16T21:34:29 CET" duration-ms="11089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method is-config="true" signature="closeDriverInstance()[pri:0, instance:regressionTestcases.UI_TC3_CTA_Download@4efac082]" started-at="2023-02-16T21:34:29 CET" name="closeDriverInstance" finished-at="2023-02-16T21:34:29 CET" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+      </class> <!-- regressionTestcases.UI_TC3_CTA_Download -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,4 @@
+regressionTestcases/UI_TC1_Filters.class
+regressionTestcases/UI_TC2_Sorting.class
+testdata/FetchExcelData.class
+regressionTestcases/UI_TC3_CTA_Download.class

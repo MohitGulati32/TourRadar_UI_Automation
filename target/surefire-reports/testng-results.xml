@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-16T22:26:06 CET" name="Suite" finished-at="2023-02-16T22:27:43 CET" duration-ms="97760">
+    <groups>
+    </groups>
+    <test started-at="2023-02-16T22:26:06 CET" name="Test" finished-at="2023-02-16T22:27:43 CET" duration-ms="97760">
+      <class name="regressionTestcases.UI_TC1_Filters">
+        <test-method is-config="true" signature="initiateCriverInstance()[pri:0, instance:regressionTestcases.UI_TC1_Filters@6c1a5b54]" started-at="2023-02-16T22:26:06 CET" name="initiateCriverInstance" finished-at="2023-02-16T22:26:33 CET" duration-ms="27898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateCriverInstance -->
+        <test-method signature="TC1()[pri:0, instance:regressionTestcases.UI_TC1_Filters@6c1a5b54]" started-at="2023-02-16T22:26:33 CET" name="TC1" finished-at="2023-02-16T22:26:45 CET" duration-ms="11413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method is-config="true" signature="closeDriverInstance()[pri:0, instance:regressionTestcases.UI_TC1_Filters@6c1a5b54]" started-at="2023-02-16T22:26:45 CET" name="closeDriverInstance" finished-at="2023-02-16T22:26:45 CET" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+      </class> <!-- regressionTestcases.UI_TC1_Filters -->
+      <class name="regressionTestcases.UI_TC2_Sorting">
+        <test-method is-config="true" signature="initiateCriverInstance()[pri:0, instance:regressionTestcases.UI_TC2_Sorting@71ba6d4e]" started-at="2023-02-16T22:26:45 CET" name="initiateCriverInstance" finished-at="2023-02-16T22:26:59 CET" duration-ms="14079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateCriverInstance -->
+        <test-method signature="TC2()[pri:0, instance:regressionTestcases.UI_TC2_Sorting@71ba6d4e]" started-at="2023-02-16T22:26:59 CET" name="TC2" finished-at="2023-02-16T22:27:14 CET" duration-ms="14613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method is-config="true" signature="closeDriverInstance()[pri:0, instance:regressionTestcases.UI_TC2_Sorting@71ba6d4e]" started-at="2023-02-16T22:27:14 CET" name="closeDriverInstance" finished-at="2023-02-16T22:27:14 CET" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+      </class> <!-- regressionTestcases.UI_TC2_Sorting -->
+      <class name="regressionTestcases.UI_TC3_CTA_Download">
+        <test-method is-config="true" signature="initiateCriverInstance()[pri:0, instance:regressionTestcases.UI_TC3_CTA_Download@738dc9b]" started-at="2023-02-16T22:27:14 CET" name="initiateCriverInstance" finished-at="2023-02-16T22:27:28 CET" duration-ms="14134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateCriverInstance -->
+        <test-method signature="TC3()[pri:0, instance:regressionTestcases.UI_TC3_CTA_Download@738dc9b]" started-at="2023-02-16T22:27:28 CET" name="TC3" finished-at="2023-02-16T22:27:43 CET" duration-ms="15030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method is-config="true" signature="closeDriverInstance()[pri:0, instance:regressionTestcases.UI_TC3_CTA_Download@738dc9b]" started-at="2023-02-16T22:27:43 CET" name="closeDriverInstance" finished-at="2023-02-16T22:27:43 CET" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+      </class> <!-- regressionTestcases.UI_TC3_CTA_Download -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
